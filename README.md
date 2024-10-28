@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Musfiqur Rahman! 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=your-username&color=green)  
-[![GitHub Followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username?tab=followers)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/your-linkedin-profile)  
+[![GitHub Followers](https://img.shields.io/github/followers/MusfiqurRahman12?style=social)](https://github.com/MusfiqurRahman12?tab=followers)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](www.linkedin.com/in/musfiqurrahmansqa)  
 
 ---
 
